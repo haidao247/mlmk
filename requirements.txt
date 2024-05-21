@@ -1,0 +1,11 @@
+sentence-transformers 
+ctransformers 
+ipykernel
+langchain 
+python-box
+streamlit
+uvicorn 
+numpy
+pandas
+pytorch
+notebook
